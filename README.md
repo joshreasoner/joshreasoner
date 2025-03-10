@@ -1,20 +1,19 @@
 # Hi there, I'm Josh 👋
 
-I'm a software engineer with a strong background in **cloud application development** and **environmental data integration**. I specialize in **C#**, **.NET**, and **Azure**, and I am passionate about creating scalable, data-driven solutions to solve complex problems. My journey spans from environmental science to software development, where I bridge the gap between technology and real-world impact.
+I'm a software engineer with a passion for creating cloud-based applications and solving problems through technology. With a background in **environmental science**, I focus on using software to help make data-driven decisions and tackle real-world challenges. My expertise includes **C#**, **.NET**, and I’m always excited to learn and grow as I work on meaningful projects.
 
 ## Skills & Technologies
 
 - **Programming Languages:** C#, JavaScript, SQL
-- **Frameworks & Libraries:** ASP.NET, WPF, WinForms, React
+- **Frameworks & Libraries:** ASP.NET, .NET CORE, WPF, WinForms
 - **Cloud & DevOps:** Azure, Docker, GitHub Actions
-- **Databases:** SQL Server, T-SQL, Relational Databases
-- **Tools:** Visual Studio, Kendo UI, Highcharts, Power BI
-- **Testing:** NUnit, XUnit, Unit & Integration Testing
-- **Methodologies:** Agile, CI/CD
+- **Databases:** SQL Server, T-SQL, SSIS, SSRS
+- **Tools:** Visual Studio, Kendo UI, Highcharts
+- **Methodologies:** Agile, CI/CD, Scrum Certificate
 
 ## What I Do
 
-I work on building robust **cloud-based applications** that integrate **environmental data**, automating processes, and improving data-driven decision-making. Whether it's developing **web applications**, implementing **data visualizations** with tools like **Highcharts** and **Power BI**, or working with **cloud infrastructure** on **Azure**, I'm driven to tackle challenging problems and deliver impactful solutions.
+I work on building applications that automate processes, visualize data, and improve decision-making. I’m passionate about making software that has a positive impact and solves real problems. I enjoy tackling new challenges, exploring different technologies, and continually improving my skills.
 
 ## Let's Collaborate!
 
